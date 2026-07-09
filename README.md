@@ -55,7 +55,7 @@ To analyze business sales data and provide actionable insights that support data
 ## Repository Structure
 
 ```text
-.
+
 ├── Business_Sales_Analytics.pbix
 ├── Dashboard.png
 ├── Sample-Superstore.xlsx
