@@ -1,7 +1,6 @@
-# FUTURE_DS_01
-Interactive Business Sales Performance Analytics Dashboard using Power BI.
-
 # Business Sales Performance Analytics
+
+Interactive Business Sales Performance Analytics Dashboard using Power BI.
 
 ## Overview
 
