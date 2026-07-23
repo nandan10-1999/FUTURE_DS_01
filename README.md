@@ -49,7 +49,7 @@ To analyze business sales data and provide actionable insights that support data
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard_1.png)
+![Dashboard Preview](.png)
 
 ## Repository Structure
 
